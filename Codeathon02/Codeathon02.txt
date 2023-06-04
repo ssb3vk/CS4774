@@ -1,0 +1,2 @@
+Ideas for ML Codeathon2: 
+Reparameterization Trick: https://www.youtube.com/watch?v=vy8q-WnHa9A
